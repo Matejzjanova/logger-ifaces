@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsdrlogger.a CMakeFiles/sdrlogger.dir/src/sdrlogger.cpp.o
+/usr/bin/ranlib libsdrlogger.a
