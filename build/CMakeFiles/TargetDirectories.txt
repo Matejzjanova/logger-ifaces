@@ -1,8 +1,0 @@
-/home/misha/Projects/SDRLogger/build/CMakeFiles/edit_cache.dir
-/home/misha/Projects/SDRLogger/build/CMakeFiles/rebuild_cache.dir
-/home/misha/Projects/SDRLogger/build/logger/CMakeFiles/edit_cache.dir
-/home/misha/Projects/SDRLogger/build/logger/CMakeFiles/rebuild_cache.dir
-/home/misha/Projects/SDRLogger/build/sdrlogger/CMakeFiles/sdrlogger.dir
-/home/misha/Projects/SDRLogger/build/sdrlogger/CMakeFiles/sdrlogger_test.dir
-/home/misha/Projects/SDRLogger/build/sdrlogger/CMakeFiles/edit_cache.dir
-/home/misha/Projects/SDRLogger/build/sdrlogger/CMakeFiles/rebuild_cache.dir

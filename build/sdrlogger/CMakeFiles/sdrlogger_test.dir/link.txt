@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/sdrlogger_test.dir/test/test.cpp.o -o sdrlogger_test  libsdrlogger.a /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgmock.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 
